@@ -13,3 +13,16 @@ Compilation and requirements
 2. Requirements
   1. TeamViewer must be running
   2. Tested only with English GUI of TeamViewer
+
+Sample output
+======================
+
+```
+C:\tools\Projects>TeamViewer_Dump.exe
+TeamViewer ID: 606 151 261
+TeamViewer PASS: 3239
+E-mail: hacked@account.com
+Password: FooPassword123
+
+C:\tools\Projects>
+```
